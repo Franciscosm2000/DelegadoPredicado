@@ -1,0 +1,9 @@
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\bin\Debug\Delegado Predicado.exe.config
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\bin\Debug\Delegado Predicado.exe
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\bin\Debug\Delegado Predicado.pdb
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\obj\Debug\Delegado Predicado.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\obj\Debug\Delegado_Predicado.Form1.resources
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\obj\Debug\Delegado_Predicado.Properties.Resources.resources
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\obj\Debug\Delegado Predicado.csproj.GenerateResource.Cache
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\obj\Debug\Delegado Predicado.exe
+C:\Users\Fran\Desktop\proyecto\Delegado Predicado\Delegado Predicado\obj\Debug\Delegado Predicado.pdb
