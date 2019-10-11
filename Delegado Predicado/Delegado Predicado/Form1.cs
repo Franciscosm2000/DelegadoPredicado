@@ -66,7 +66,8 @@ namespace Delegado_Predicado
 
             return bandera;
         }
-
+        //para poder separar numero pares e impares
+        //terminado solo los pares, falta impares
         private void button1_Click(object sender, EventArgs e)
         {
             num = new List<int>();
@@ -93,6 +94,11 @@ namespace Delegado_Predicado
             {
 
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
